@@ -33,7 +33,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=33&section=header&reversal=false&text=I%20have%2099%20problems,%20but%20an%20unclosed%20bracket%20isn't%20one.&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=54&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&section=header&reversal=false&text=I%20have%2099%20problems,%20but%20an%20unclosed%20bracket%20isn't%20one.&fontSize=25&fontColor=3A0075&fontAlign=50&fontAlignY=54&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=000000"  />
 </div>
 
 ###
@@ -113,7 +113,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="./assets/gif/satoru-eyes.gif"  />
+  <img data-importer="image" height="300" src="./assets/gif/satoru-eyes.gif"  />
 </div>
 
 ###
