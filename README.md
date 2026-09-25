@@ -24,7 +24,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="./assets/gif/satoru-hello.gif"  />
+<img data-importer="image" align="right" height="350" src="./assets/gif/satoru-hello.gif"  />
 
 ###
 
