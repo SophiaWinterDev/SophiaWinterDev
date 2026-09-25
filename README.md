@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="./assets/img/head.png"  />
+  <img data-importer="image" height="285" src="./assets/img/head.png"  />
 </div>
 
 ###
@@ -24,7 +24,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="380" src="./assets/gif/satoru-hello.gif"  />
+<img data-importer="image" align="right" height="200" src="./assets/gif/satoru-hello.gif"  />
 
 ###
 
