@@ -20,7 +20,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hi, I'm Sophia!<br><br>I’m currently a software development student (Fachinformatikerin für Anwendungsentwicklung). For me, coding is the perfect outlet for my love of logic and order—there is something incredibly satisfying about bringing structure to complex problems and making things run efficiently.<br><br>Right now, I’m fully focused on absorbing as much knowledge as possible, mastering the core principles of software engineering, and turning theory into hands-on projects.<br>While I’m keeping an open mind about where exactly I want to specialize in the future, my main goal right now is to build a solid foundation and see where this exciting journey takes me.</p>
+<p data-importer="text" align="left">Hi, I'm Sophia!<br><br>I’m currently a software development student (Fachinformatikerin für Anwendungsentwicklung). For me, coding is the perfect outlet for my love of logic and order—there is something incredibly satisfying about bringing structure to complex problems and making things run efficiently.<br><br>Right now, I’m fully focused on absorbing as much knowledge as possible, mastering the core principles of software engineering, and turning theory into hands-on projects. While I’m keeping an open mind about where exactly I want to specialize in the future, my main goal right now is to build a solid foundation and see where this exciting journey takes me.</p>
 
 ###
 
