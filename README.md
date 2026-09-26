@@ -28,7 +28,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Hi, I'm Sophia!<br><br>I’m currently a software development student (Fachinformatikerin für Anwendungsentwicklung). For me, coding is the perfect outlet for my love of logic and order—there is something incredibly satisfying about bringing structure to complex problems and making things run efficiently.<br><br>I naturally lean towards organization, and yes—I can be a bit of a perfectionist! In software engineering, I see that as a major strength. It drives me to write clean, well-structured code and pay close attention to the details that make an application stable and reliable.<br><br><br>Right now, I’m fully focused on absorbing as much knowledge as possible, mastering the core principles of software engineering, and turning theory into hands-on projects.<br>While I’m keeping an open mind about where exactly I want to specialize in the future, my main goal right now is to build a solid foundation and see where this exciting journey takes me.</h4>
+<p data-importer="text" align="left">Hi, I'm Sophia!<br><br>I’m currently a software development student (Fachinformatikerin für Anwendungsentwicklung). For me, coding is the perfect outlet for my love of logic and order—there is something incredibly satisfying about bringing structure to complex problems and making things run efficiently.<br><br>I naturally lean towards organization, and yes—I can be a bit of a perfectionist! In software engineering, I see that as a major strength. It drives me to write clean, well-structured code and pay close attention to the details that make an application stable and reliable.<br><br><br>Right now, I’m fully focused on absorbing as much knowledge as possible, mastering the core principles of software engineering, and turning theory into hands-on projects.<br>While I’m keeping an open mind about where exactly I want to specialize in the future, my main goal right now is to build a solid foundation and see where this exciting journey takes me.</p>
 
 ###
 
@@ -104,7 +104,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">$ six-eyes --execute</h3>
+<h3 data-importer="text" align="center">.six-eyes:active</h3>
 
 ###
 
