@@ -29,7 +29,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&section=header&reversal=false&text=I'm%20a%20perfectionist.%20I%20have%2099%20problems,%20but%20an%20unclosed%20bracket%20isn't%20one.&fontSize=23&fontColor=3A0075&fontAlign=50&fontAlignY=54&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=000000"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&section=header&reversal=false&text=I'm%20a%20perfectionist.%20I%20have%2099%20problems,%20but%20an%20unclosed%20bracket%20isn't%20one.&fontSize=23&fontColor=3A0075&fontAlign=50&fontAlignY=54&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=000000"  />
 </div>
 
 ###
@@ -52,17 +52,17 @@
 
 <div data-importer="techs" align="center">
   <img src="https://img.shields.io/badge/HTML5-7F00FF?style=for-the-badge" height="35" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/CSS-7F00FF?style=for-the-badge" height="35" alt="css logo"  />
-  <img width="15" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge" height="35" alt="css logo"  />
+  <img width="5" />
   <img src="https://img.shields.io/badge/GIT-7F00FF?style=for-the-badge" height="35" alt="git logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/GITHUB-7F00FF?style=for-the-badge" height="35" alt="github logo"  />
-  <img width="15" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge" height="35" alt="github logo"  />
+  <img width="5" />
   <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-7F00FF?style=for-the-badge" height="35" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/FIGMA-7F00FF?style=for-the-badge" height="35" alt="figma logo"  />
-  <img width="15" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/FIGMA-000000?style=for-the-badge" height="35" alt="figma logo"  />
+  <img width="5" />
   <img src="https://img.shields.io/badge/NOTION-7F00FF?style=for-the-badge" height="35" alt="notion logo"  />
 </div>
 
