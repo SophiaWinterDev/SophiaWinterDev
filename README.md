@@ -4,14 +4,6 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <a href="https://www.google.com/?hl=de" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=7F00FF&logoColor=&labelColor=&style=flat" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=24&section=header&reversal=false&text=//%20ABOUT%20ME&fontSize=25&fontColor=7F00FF&fontAlign=10&fontAlignY=75&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
@@ -28,12 +20,12 @@
 
 ###
 
-<p data-importer="text" align="left">Hi, I'm Sophia!<br><br>I’m currently a software development student (Fachinformatikerin für Anwendungsentwicklung). For me, coding is the perfect outlet for my love of logic and order—there is something incredibly satisfying about bringing structure to complex problems and making things run efficiently.<br><br>I naturally lean towards organization, and yes—I can be a bit of a perfectionist! In software engineering, I see that as a major strength. It drives me to write clean, well-structured code and pay close attention to the details that make an application stable and reliable.<br><br><br>Right now, I’m fully focused on absorbing as much knowledge as possible, mastering the core principles of software engineering, and turning theory into hands-on projects.<br>While I’m keeping an open mind about where exactly I want to specialize in the future, my main goal right now is to build a solid foundation and see where this exciting journey takes me.</p>
+<p data-importer="text" align="left">Hi, I'm Sophia!<br><br>I’m currently a software development student (Fachinformatikerin für Anwendungsentwicklung). For me, coding is the perfect outlet for my love of logic and order—there is something incredibly satisfying about bringing structure to complex problems and making things run efficiently.<br><br>Right now, I’m fully focused on absorbing as much knowledge as possible, mastering the core principles of software engineering, and turning theory into hands-on projects.<br>While I’m keeping an open mind about where exactly I want to specialize in the future, my main goal right now is to build a solid foundation and see where this exciting journey takes me.</p>
 
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&section=header&reversal=false&text=I%20have%2099%20problems,%20but%20an%20unclosed%20bracket%20isn't%20one.&fontSize=25&fontColor=3A0075&fontAlign=50&fontAlignY=54&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=000000"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&section=header&reversal=false&text=I'm%20a%20perfectionist.%20I%20have%2099%20problems,%20but%20an%20unclosed%20bracket%20isn't%20one.&fontSize=23&fontColor=3A0075&fontAlign=50&fontAlignY=54&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=000000"  />
 </div>
 
 ###
@@ -104,7 +96,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">.six-eyes:active</h3>
+<h3 data-importer="text" align="center">six-eyes:active</h3>
 
 ###
 
