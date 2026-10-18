@@ -55,15 +55,17 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge" height="35" alt="css logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/GIT-7F00FF?style=for-the-badge" height="35" alt="git logo"  />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-7F00FF?style=for-the-badge" height="35" alt="javascript logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge" height="35" alt="github logo"  />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge" height="35" alt="git logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-7F00FF?style=for-the-badge" height="35" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/GITHUB-7F00FF?style=for-the-badge" height="35" alt="github logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/FIGMA-000000?style=for-the-badge" height="35" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-000000?style=for-the-badge" height="35" alt="vscode logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/NOTION-7F00FF?style=for-the-badge" height="35" alt="notion logo"  />
+  <img src="https://img.shields.io/badge/FIGMA-7F00FF?style=for-the-badge" height="35" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge" height="35" alt="notion logo"  />
 </div>
 
 ###
