@@ -42,8 +42,6 @@
 
 ###
 
-<br clear="both">
-
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=2&section=header&reversal=false&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=7F00FF"  />
 </div>
@@ -77,8 +75,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=2&section=header&reversal=false&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=7F00FF"  />
