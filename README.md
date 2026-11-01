@@ -49,7 +49,7 @@
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://img.shields.io/badge/HTML5-7F00FF?style=for-the-badge" height="35" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/HTML-7F00FF?style=for-the-badge" height="35" alt="html logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge" height="35" alt="css logo"  />
   <img width="5" />
